@@ -1,4 +1,4 @@
-# Awesome Creativity & Innovation Mind Maps [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+# [Awesome Creativity & Innovation Mind Maps](https://mindmapai.app/mind-maps/creativity-and-innovation) [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Unlock your creative potential with project management and mind maps AI to organize ideas, plan innovation projects, and drive meaningful outcomes. Mind maps AI fosters experimentation and strategic thinking, empowering individuals and teams to transform creativity into actionable solutions.
 
